@@ -11,6 +11,7 @@ import java.util.*;
 import static org.junit.Assert.*;
 
 public class Test {
+	//QWEQWE
     private Shelter shelter;
     private ArrayList<String> list;
     private ArrayList<String> result;
